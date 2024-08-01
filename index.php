@@ -17,7 +17,7 @@
                 </div>
                 <div class="right-side">
                     <form action="convert.php" method="post">
-                        <input type="text" name="num" placeholder="Enter number" class="input1" required>
+                        <input type="text" name="num" placeholder="Enter temperature" class="input1" required>
                         <div class="selection">
                             <label>Kelvin</label>
                             <input type="radio" name="unit" value="kelvin" required>
